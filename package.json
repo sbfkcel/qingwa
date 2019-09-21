@@ -1,0 +1,19 @@
+{
+    "name": "frog",
+    "version": "1.0.0",
+    "description": "Let node debug information display line number",
+    "main": "main.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/sbfkcel/frog"
+    },
+    "keywords": [
+      "debug",
+      "line number",
+      "console",
+      "terminal",
+      "console"
+    ],
+    "author": "sbfkcel@163.com",
+    "license": "MIT"
+  }
