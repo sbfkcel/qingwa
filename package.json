@@ -1,6 +1,6 @@
 {
     "name": "qingwa",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Let node debug information display line number",
     "main": "main.js",
     "repository": {

@@ -42,7 +42,7 @@ const frog = ()=>{
             };
             _console[key](...arguments);
             if(isEcho){
-                _console['log']('\r\n');
+                _console['log']('');
             };
         };
     };
