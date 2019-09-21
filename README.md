@@ -8,12 +8,12 @@
 
 ```bash
 # install
-npm install @sbfkcel/frog -g
+npm install qingwa -g
 ```
 
 ```javascript
 # Introduced and run
-require('frog')();
+require('qingwa')();
 
 # Use
 console.log('Hello');
