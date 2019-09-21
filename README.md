@@ -8,7 +8,7 @@
 
 ```bash
 # install
-npm install qingwa -g
+npm install qingwa --save
 ```
 
 ```javascript
