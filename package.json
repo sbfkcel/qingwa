@@ -1,11 +1,11 @@
 {
     "name": "qingwa",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Let node debug information display line number",
     "main": "main.js",
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/sbfkcel/frog"
+      "url": "git+https://github.com/sbfkcel/qingwa"
     },
     "keywords": [
       "debug",

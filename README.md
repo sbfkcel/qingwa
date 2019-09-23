@@ -1,8 +1,10 @@
-# Frog
+# 🐸 qingwa（Frog）
 
-🐸 Let node debug information display line number.
+The name qīng wā is derived from the Chinese pinyin of frog.
 
-![demo](https://raw.githubusercontent.com/sbfkcel/frog/master/demo.png)
+Let node debug information display line number.
+
+![demo](https://raw.githubusercontent.com/sbfkcel/qingwa/master/demo.png)
 
 ## Use
 
