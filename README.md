@@ -14,10 +14,10 @@ npm install qingwa --save
 ```
 
 ```javascript
-# Introduced and run
+// Introduced and run
 require('qingwa')();
 
-# Use
+// Use
 console.log('Hello');
 console.time('Test');
 console.timeEnd('Test');
