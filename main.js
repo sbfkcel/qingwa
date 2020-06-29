@@ -25,7 +25,7 @@ const frog = ()=>{
         // _console.log(strLineErr)
         temp.colNum = +arrErrResult.pop();
         temp.lineNum = +arrErrResult.pop();
-        temp.fileName = arrErrResult.pop();
+        temp.fileName = arrErrResult.slice(1).join('/');
         return /\\|\//ig.test(strLineErr) ? `🐸 ${getStyle('magenta',temp.fileName)}${getStyle('gray',':')}${getStyle('green',temp.lineNum)}` : undefined;
     };
     
